@@ -4,7 +4,7 @@ Ive added the entire detailed documentation within the code and I hope you find 
 
 # Requirements
 Nettest is a application that will run in any system with/without python installed. Run 'Nettest.exe'.
-
+<br> Tested for Windows only.
 # Description
 I've used the speedtest-cli module and for convenience to new users, the program will automatically download the module before execution!
 
