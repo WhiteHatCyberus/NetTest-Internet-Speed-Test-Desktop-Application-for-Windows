@@ -21,7 +21,8 @@ while (choice =='Y' or choice == 'y'):
         print("\n") #Menu starts from here
         print("1. Download speed \n")
         print("2. Upload Speed \n")
-        print("3.Exit \n")
+        print("3. Ping \n")
+        print("4. Exit \n")
         option = int(input("Your choice:"))
         if option == 1: #Download speed
             print("Checking.... May take a few seconds")
@@ -31,10 +32,12 @@ while (choice =='Y' or choice == 'y'):
             print("Checking.... May take a few seconds")
             up=st.upload()/1000000 #conversion of bps(speed-cli default) to Mbps by dividing the value by 10^6
             print("Upload Speed:",round(up,2),"Mbps") #minimizing value to a precision of 2 decimal places
-        elif option == 3:
+        elif option == 3: #ping 
+            subprocess.run(["ping", "8.8.8.8", "-n", "1", "-l", "40"])
+        elif option == 4: #exit
             choice = 'N'
             break
-        else:
+        else:           #incorrect choice
             print("Invalid choice!")
         print("\n")
         choice=input("Do you want to try again? (Y/N):")
