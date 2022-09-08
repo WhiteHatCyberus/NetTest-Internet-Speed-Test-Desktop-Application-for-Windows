@@ -13,7 +13,7 @@ Ive put in 2-3hrs overall on this project so that it is highly user friendly and
 
 # Run it anywhere in your system using commandline
 Copy paste the directory of the 'nettest' folder into the global system variables, under the PATH section
-1. Open and paste the Nettest directory path
+1. Open the nettest folder and copy the Nettest directory path
 <br><img width="477" alt="1" src="https://user-images.githubusercontent.com/70995581/189019327-d4523d6b-2913-4695-be38-6c61ab494de4.png"><br>2. Open System properties<br>
 <img width="303" alt="2" src="https://user-images.githubusercontent.com/70995581/189020169-32aa6e3c-b073-4348-b98a-d14eefe51aaf.png"><br>3. Add new PATH
 <br><img width="425" alt="3" src="https://user-images.githubusercontent.com/70995581/189020181-645065b1-4f41-42a5-858e-5dbed25bcf17.png"><br>4. Click 'New' and paste the nettest directory. Select 'Apply'.
