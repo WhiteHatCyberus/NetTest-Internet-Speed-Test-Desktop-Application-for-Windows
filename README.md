@@ -17,7 +17,7 @@ Copy paste the directory of the 'nettest' folder into the global system variable
 <br><img width="477" alt="1" src="https://user-images.githubusercontent.com/70995581/189019327-d4523d6b-2913-4695-be38-6c61ab494de4.png"><br>2. Open System properties<br>
 <img width="303" alt="2" src="https://user-images.githubusercontent.com/70995581/189020169-32aa6e3c-b073-4348-b98a-d14eefe51aaf.png"><br>3. Add new PATH
 <br><img width="425" alt="3" src="https://user-images.githubusercontent.com/70995581/189020181-645065b1-4f41-42a5-858e-5dbed25bcf17.png"><br>4. Click 'New' and paste the nettest directory. Select 'Apply'.
-<br><img width="173" alt="4" src="https://user-images.githubusercontent.com/70995581/189020211-558b6159-265b-4add-a5e5-56ad0e75f85d.png">
+<br><img width="173" alt="4" src="https://user-images.githubusercontent.com/70995581/189020211-558b6159-265b-4add-a5e5-56ad0e75f85d.png"><br>5. Now open command-line and type 'nettest'.
 
 # SpeedTest v1.1 (Latest)
 <p>The latest version adds the ping feature<br>
